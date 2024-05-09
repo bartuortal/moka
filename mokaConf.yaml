@@ -1,0 +1,3 @@
+endpoints:
+  - endpoint: "hello"
+    content: "world"
